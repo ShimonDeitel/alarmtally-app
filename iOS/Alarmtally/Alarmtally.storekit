@@ -1,0 +1,40 @@
+{
+  "identifier" : "Alarmtally",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "alarmtally_pro_group",
+      "localizations" : [],
+      "name" : "Alarmtally Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "alarmtally_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlocks Weekly snooze trend and streak-free-morning badges",
+              "displayName" : "Alarmtally Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.snoozetracker.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Alarmtally Pro Monthly",
+          "subscriptionGroupID" : "alarmtally_pro_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
