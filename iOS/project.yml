@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: AlarmtallyTests
-      - path: Alarmtally.storekit
     dependencies:
       - target: Alarmtally
     settings:
